@@ -1,0 +1,2 @@
+header div:first-child{ padding: 4%; background: blue; width: 35%; float: left;}
+header div:first-child(2){ padding: 4%; background: green; width: 35%; float: left;}
