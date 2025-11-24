@@ -1,0 +1,84 @@
+/* styles.css for Float Properties Exercise */
+* {
+  box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    height: 80px; 
+}
+
+.logo {
+    float: left;
+    width: 50%;
+    height: 80px;
+    background: #4280fb;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 80px;     
+}
+
+.email {
+    float: left;
+    width: 50%;
+    height: 80px;
+    background: #63ef1d;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 80px;
+}
+
+.menu-bar {
+    clear: both;
+    width: 100%;
+    height: 50px;
+    background: #ff3333;
+    padding: 5px 0;
+    margin: 8px auto;
+}
+.menu {
+    float: left;
+    width: 120px;
+    height: 40px;
+    margin: 0 5px;
+    background: #ffff66;
+    border: 2px solid #000000;
+    text-align: center;
+    line-height: 36px;
+}
+
+.content {›
+    width: 100%;
+    height: 120px;
+    margin: 8px auto;
+}
+
+.left-bar {
+    float: left;
+    width: 30%;
+    height: 120px;
+    background: #4280fb;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 120px;
+}
+
+.right-bar {
+    float: left;
+    width: 70%;
+    height: 120px;
+    background: #63ef1d;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 120px;
+}
+
+.footer {
+    clear: both;
+    width: 100%;
+    height: 60px;
+    background: #ffff33;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 60px;  
+}
