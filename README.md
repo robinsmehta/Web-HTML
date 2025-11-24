@@ -11,5 +11,9 @@ The second exercise (`index2.html`) explores a variation of the floating layout,
 ## Week 4 Assignment
 The third exercise (`index3.html`) represents the Week 4 assignment, focusing on specific layout requirements and CSS techniques learned during that week.
 
+## Author
+This assignment was completed as part of the Web Development curriculum.
+
+
 
 
