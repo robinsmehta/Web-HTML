@@ -27,15 +27,16 @@ section{
 }
 section div:first-child{ 
     border: #000000 solid 1px;
+    padding: 50px;
     width:30%;
     float:left;
-    height: 200px;
+    height: 400px;
 }
 section div:nth-child(2){
     border: #000000 solid 1px;
     width: 69%; 
     float: right;
-    height: 200px;
+    height: 400px;
 
 }
 
